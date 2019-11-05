@@ -1,7 +1,7 @@
 
-import * as _ from 'lodash';
-import * as moment from 'moment';
-import * as crypto from 'crypto';
+import _ from 'lodash';
+import moment from 'moment';
+import crypto from 'crypto';
 
 const RULE_OPTION_TYPE_STRING = 'string'; // 字符串
 const RULE_OPTION_TYPE_ARRAY = 'array'; // 数组
