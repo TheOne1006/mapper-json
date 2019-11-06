@@ -358,8 +358,4 @@ export default class MapperJson {
     return valueArr || defaultValue;
   }
 
-
-
-
-
 }
